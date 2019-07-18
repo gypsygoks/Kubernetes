@@ -41,3 +41,8 @@ In this project we used the following provision.
 
 You can any number of cluster node in this for kubernetes.
 
+Finally the run the below command to start the execution.
+```
+python on_premise.py
+```
+
